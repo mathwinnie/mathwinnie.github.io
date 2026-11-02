@@ -15,9 +15,10 @@ For more information about my academic work, please visit my [Google Scholar](ht
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+- Special Functions (MSC 2020: 33)
+- Fractional Calculus (MSC 2020: 26A33)
+- Integral Transforms, Operational Calculus (MSC 2020: 44)
+- Functional Differential equations (MSC 2020: 34Kxx)
 
 ## News
 
