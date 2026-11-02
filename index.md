@@ -37,16 +37,29 @@ For more information about my academic work, please visit my [Google Scholar](ht
 
 ## Teaching
 
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
+I primarily teach undergraduate and graduate courses in *Analysis* at Donghua University.
 
-**University of Washington**
+**Undergraduate Courses**
 
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+- Linear Algebra.
+  Teaching Period: Spring 2019, Spring 2020, Spring 2026.
+- Calculus of One Variable B.
+  Teaching Period: Fall 2019.
+- Mathematics I.
+  Teaching Period: Fall 2020, Fall 2021, Fall 2022.
+- Mathematics II.
+  Teaching Period: Spring 2021, Spring 2022, Spring 2023.
+- Mathematical Analysis I.
+  Teaching Period: Fall 2023.
+- Mathematical Analysis II.
+  Teaching Period: Spring 2024.
+- Mathematical Analysis III.
+  Teaching Period: Fall 2024, Fall 2025, Fall 2026.
+
+**Graduate Course**
+
+- Functional Differential Equations.
+  Teaching Period: Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026.
 
 ## Service
 
