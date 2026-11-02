@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National Taiwan University, advised by [Chee-Chun Leung (梁次震)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied math at the [University of Washington](http://math.washington.edu/).
+My name is Min-Jie Luo (罗旻杰). My research interests include Special Functions and Fractional Calculus.
 
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
+I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017. From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong. Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
 
+My recent research mainly focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions 
+$F_K$ and multivariate Laguerre polynomials; and the explicit characterization of generalized fractional integral operators whose kernels involve special functions such as the $G$-function, $H$-function, and $I$-function.
+
+For more information about my academic work, please visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf).
 
 ## Research Interests
 
