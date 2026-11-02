@@ -41,24 +41,24 @@ I primarily teach undergraduate and graduate courses in *Analysis* at Donghua Un
 
 **Undergraduate Courses**
 
-- Linear Algebra.
+- Linear Algebra.<br>
   Teaching Period: Spring 2019, Spring 2020, Spring 2026.
-- Calculus of One Variable B.
+- Calculus of One Variable B.<br>
   Teaching Period: Fall 2019.
-- Mathematics I.
+- Mathematics I.<br>
   Teaching Period: Fall 2020, Fall 2021, Fall 2022.
-- Mathematics II.
+- Mathematics II.<br>
   Teaching Period: Spring 2021, Spring 2022, Spring 2023.
-- Mathematical Analysis I.
+- Mathematical Analysis I.<br>
   Teaching Period: Fall 2023.
-- Mathematical Analysis II.
+- Mathematical Analysis II.<br>
   Teaching Period: Spring 2024.
-- Mathematical Analysis III.
+- Mathematical Analysis III.<br>
   Teaching Period: Fall 2024, Fall 2025, Fall 2026.
 
 **Graduate Course**
 
-- Functional Differential Equations.
+- Functional Differential Equations.<br>
   Teaching Period: Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026.
 
 ## Service
