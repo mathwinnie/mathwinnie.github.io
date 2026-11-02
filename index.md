@@ -50,21 +50,16 @@ when $X$ is an algebraic curve.
 
 ## Service
 
-#### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
+#### Editor
+- [TWMS Journal of Applied and Engineering Mathematics](https://dergipark.org.tr/en/pub/twmsjaem/board)
+- [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819/editorial-board)
 
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
+#### Reviewer
 
-## Misc. Links
+- [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1049816)
+- [zbMATH](https://zbmath.org/authors/?ml=3&ml-1-f=any&ml-1-v=min-jie+luo&ml-1-op=and&ml-2-f=ln&ml-2-v=&ml-2-op=and&ml-3-f=fn&ml-3-v=)
 
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
+<!-- 
 **Other template features:**
 - Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
 
@@ -79,3 +74,4 @@ end
 - Markdown for a math quote:
 > God is always doing geometry  
 > -- Plato
+-->
