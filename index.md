@@ -20,13 +20,6 @@ For more information about my academic work, please visit my [Google Scholar](ht
 - Integral Transforms, Operational Calculus (MSC 2020: 44)
 - Functional Differential equations (MSC 2020: 34Kxx)
 
-## News
-
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
-
 ## Publications
 
 {% include_relative _includes/publications.html %}
@@ -35,11 +28,18 @@ For more information about my academic work, please visit my [Google Scholar](ht
 
 {% include_relative _includes/notes.html %}
 
+## Talks
+
+- **[Feb. 2020]** Seminar talk at NTU graduate student event
+- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
+- **[Sept. 2019]** Started Ph.D. program at NTU
+- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
+
 ## Teaching
 
 I primarily teach undergraduate and graduate courses in *Analysis* at Donghua University.
 
-**Undergraduate Courses**
+#### Undergraduate Courses
 
 - Linear Algebra.<br>
   Teaching Period: Spring 2019, Spring 2020, Spring 2026.
@@ -56,10 +56,15 @@ I primarily teach undergraduate and graduate courses in *Analysis* at Donghua Un
 - Mathematical Analysis III.<br>
   Teaching Period: Fall 2024, Fall 2025, Fall 2026.
 
-**Graduate Course**
+#### Graduate Course
 
 - Functional Differential Equations.<br>
   Teaching Period: Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026.
+
+#### CMC
+
+- I am responsible for training students for the Chinese Mathematics Competitions for College Students (CMC).<br>
+  Teaching Period: Summer 2023, Fall 2024, Summer 2025, Fall 2025, Summer 2026, Fall 2026.
 
 ## Service
 
