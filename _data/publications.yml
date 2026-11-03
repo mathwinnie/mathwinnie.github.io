@@ -12,7 +12,7 @@ main:
     year: 2026
     link: https://doi.org/10.1002/mma.70845
     
-  - title: "Complete asymptotic expansions of the Humbert function $ \Psi_{1}$ for two large arguments"
+  - title: 'Complete asymptotic expansions of the Humbert function $ \Psi_{1}$ for two large arguments'
     authors: P.-C. Hang, L. Hu, Min-Jie Luo
     journal: Math. Slovaca
     year: 2026
@@ -29,6 +29,12 @@ main:
     journal: Acta Math. Univ. Comen., New Ser.
     year: 2026
     link: https://arxiv.org/abs/2507.14844
+
+  - title: "Upper bounds for Erdélyi's multivariable Laguerre polynomials"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: J. Math. Inequal.
+    year: 2026
+    link: https://doi.org/10.7153/jmi-2026-20-10
     
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
