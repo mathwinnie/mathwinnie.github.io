@@ -12,11 +12,23 @@ main:
     year: 2026
     link: https://doi.org/10.1002/mma.70845
     
-  - title: "Complete asymptotic expansions of the Humbert function $\Psi_1$ for two large arguments"
+  - title: "Complete asymptotic expansions of the Humbert function $ \Psi_{1}$ for two large arguments"
     authors: P.-C. Hang, L. Hu, Min-Jie Luo
     journal: Math. Slovaca
     year: 2026
     link: https://doi.org/10.1515/ms-2026-0111
+
+  - title: "A note on the Laplace transforms of certain generalized fractional integral operators"
+    authors: Min-Jie Luo, J.-Y. Shen, R.K. Raina
+    journal: J. Math. Sci.
+    year: 2026
+    link: https://doi.org/10.1007/s10958-026-08420-4
+
+  - title: "Boundedness of certain multiple Erd\'{e}lyi-Kober fractional integral operators on the Hardy space $H^1$"
+    authors: X. Chen, Min-Jie Luo
+    journal: Acta Math. Univ. Comen., New Ser.
+    year: 2026
+    link: https://arxiv.org/abs/2507.14844
     
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
