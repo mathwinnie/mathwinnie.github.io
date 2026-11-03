@@ -5,20 +5,26 @@ main:
     journal: Mathematics
     year: 2026
     link: https://doi.org/10.3390/math14193610
-
-  - title: Babenko's method for $q$-fractional integral equations: a systematic framework
-    authors: Min-Jie Luo, X.-L. Zhou
-    journal: Math. Methods Appl. Sci.
-    year: 2026
-    link: https://doi.org/10.1002/mma.70845
     
-  - title: Lower rational approximations and Farey staircases
-    authors: Harry Richman
-    journal_short: Integers
-    journal: Integers
-    year: 2024
-    arxiv: https://arxiv.org/abs/2303.02935
-    bibtex: https://mathscinet.ams.org/mrlookup?au=richman&ti=lower%20rational%20approximations
+  - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
+    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
+    journal: Mathematics
+    year: 2026
+    link: https://doi.org/10.3390/math14193610
+    
+  #- title: Babenko's method for $q$-fractional integral equations: a systematic framework
+  #  authors: Min-Jie Luo, X.-L. Zhou
+  #  journal: Math. Methods Appl. Sci.
+  #  year: 2026
+  #  link: https://doi.org/10.1002/mma.70845
+    
+  #- title: Lower rational approximations and Farey staircases
+  #  authors: Harry Richman
+  #  journal_short: Integers
+  #  journal: Integers
+  #  year: 2024
+  #  arxiv: https://arxiv.org/abs/2303.02935
+  #  bibtex: https://mathscinet.ams.org/mrlookup?au=richman&ti=lower%20rational%20approximations
   # image: ./assets/img/farey_staircase_thumb.png
 
   # - title: Derangements and the $p$-adic incomplete gamma function
