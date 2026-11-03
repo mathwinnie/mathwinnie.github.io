@@ -5,7 +5,7 @@ main:
     journal: Mathematics
     year: 2026
     link: https://doi.org/10.3390/math14193610
-    note: 'This paper was selected for the cover of Mathematics, Volume 14, Issue 19 (October 1, 2026). See: <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
+    notes: 'This paper was selected for the cover of Mathematics, Volume 14, Issue 19 (October 1, 2026). See: <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
     
   - title: "Babenko's method for $q$-fractional integral equations: a systematic framework"
     authors: Min-Jie Luo, X.-L. Zhou
