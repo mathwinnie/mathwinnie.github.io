@@ -1,24 +1,24 @@
 main:
 
-#  - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
-#    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
-#    journal_short: Mathematics
-#    journal: Mathematics
-#    year: 2026
-#    link: https://doi.org/10.3390/math14193610
+  - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
+    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
+    journal_short: Mathematics
+    journal: Mathematics
+    year: 2026
+    link: https://doi.org/10.3390/math14193610
 
-#  - title: Babenko's method for $q$-fractional integral equations: a systematic framework
-#    authors: Min-Jie Luo, X.-L. Zhou
-#    journal_short: Math. Methods Appl. Sci.
-#    journal: Math. Methods Appl. Sci.
-#    year: 2026
-#    link: https://doi.org/10.1002/mma.70845
+  - title: Babenko's method for $q$-fractional integral equations: a systematic framework
+    authors: Min-Jie Luo, X.-L. Zhou
+    journal_short: Math. Methods Appl. Sci.
+    journal: Math. Methods Appl. Sci.
+    year: 2026
+    link: https://doi.org/10.1002/mma.70845
 
   - title: Vector encoding of phylogenetic trees by ordered leaf attachment
     authors: Harry Richman, Cheng Zhang, Erick Matsen
     arxiv: https://arxiv.org/abs/2503.10169
     code: https://github.com/matsengrp/ola-encoding
-    image: ./assets/img/ola_tree_thumb.png
+   # image: ./assets/img/ola_tree_thumb.png
     notes: submitted
 
   - title: The floor quotient partial order
@@ -31,7 +31,7 @@ main:
     bibtex: https://mathscinet.ams.org/mrlookup?au=richman&ti=floor%20quotient%20partial%20order&year=2024
     code: https://github.com/harryrichman/floor-quotients-app
     demo: https://harryrichman.github.io/floor-quotients-app/
-    image: ./assets/img/floor_quotient_thumb.png
+  #  image: ./assets/img/floor_quotient_thumb.png
 
   # - title: Lower rational approximations and Farey staircases
   #   authors: Harry Richman
