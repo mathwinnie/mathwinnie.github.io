@@ -2,17 +2,21 @@ main:
 
   - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
     authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
-    journal_short: Mathematics
     journal: Mathematics
     year: 2026
     link: https://doi.org/10.3390/math14193610
 
   - title: Babenko's method for $q$-fractional integral equations: a systematic framework
     authors: Min-Jie Luo, X.-L. Zhou
-    journal_short: Math. Methods Appl. Sci.
     journal: Math. Methods Appl. Sci.
     year: 2026
     link: https://doi.org/10.1002/mma.70845
+
+  - title: Complete asymptotic expansions of the Humbert function $\Psi_1$ for two large arguments
+    authors: P.-C. Hang, L. Hu, Min-Jie Luo
+    journal: Math. Slovaca
+    year: 2026
+    link: https://doi.org/10.1515/ms-2026-0111
 
   - title: Vector encoding of phylogenetic trees by ordered leaf attachment
     authors: Harry Richman, Cheng Zhang, Erick Matsen
@@ -23,7 +27,6 @@ main:
 
   - title: The floor quotient partial order
     authors: Jeffrey Lagarias, Harry Richman
-    journal_short: Adv Appl Math
     journal: Adv. in Appl. Math.
     year: 2024
     link: https://doi.org/10.1016/j.aam.2023.102615
