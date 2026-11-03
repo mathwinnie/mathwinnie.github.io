@@ -35,6 +35,27 @@ main:
     journal: J. Math. Inequal.
     year: 2026
     link: https://doi.org/10.7153/jmi-2026-20-10
+
+  - title: "Erdélyi-type integrals for $F_K$ function and their $q$-analogues"
+    authors: L.-J. Guo, Min-Jie Luo
+    journal: Fractal Fract.
+    year: 2026
+    link: https://doi.org/10.3390/fractalfract10040225
+
+  - title: "Note on the $a$-points of the Riemann zeta function"
+    authors: P.-C. Hang, L. Hu, Min-Jie Luo
+    journal: Period. Math. Hung.
+    year: 2026
+    link: https://doi.org/10.1007/s10998-025-00688-4
+
+  - title: "Applications of Babenko's method to a class of integral equations"
+    authors: Min-Jie Luo, R.K. Raina, X.-L. Zhou
+    journal: Frac. Calc. Appl. Anal.
+    year: 2025
+    link: https://doi.org/10.1007/s13540-025-00454-w
+
+
+
     
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
