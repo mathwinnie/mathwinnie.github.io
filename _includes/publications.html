@@ -1,10 +1,6 @@
 <div class="publications">
 
-  {% if site.enable_publication_thumbnails %}
-  <ol class="bibliography">
-  {% else %}
-  <ol class="bibliography" style="list-style: decimal; padding: revert;" reversed>
-  {% endif %}
+    <ol class="bibliography" style="list-style: decimal; padding-left: 1.5em;" reversed>
 
     {% for pub in site.data.publications.main %}
 
@@ -26,7 +22,8 @@
           {% endif %}
         </div>
         {% endif %}
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="{% if site.enable_publication_thumbnails %}col-sm-9{% else %}col-sm-12{% endif %}"
+     style="position: relative;padding-right: 15px;padding-left: 15px;">
           {% if pub.link %}
           <div class="title"><a href="{{ pub.link }}">{{ pub.title }}</a></div>
           {% else %}
