@@ -18,24 +18,6 @@ main:
     year: 2026
     link: https://doi.org/10.1515/ms-2026-0111
 
-  - title: Vector encoding of phylogenetic trees by ordered leaf attachment
-    authors: Harry Richman, Cheng Zhang, Erick Matsen
-    arxiv: https://arxiv.org/abs/2503.10169
-    code: https://github.com/matsengrp/ola-encoding
-   # image: ./assets/img/ola_tree_thumb.png
-    notes: submitted
-
-  - title: The floor quotient partial order
-    authors: Jeffrey Lagarias, Harry Richman
-    journal: Adv. in Appl. Math.
-    year: 2024
-    link: https://doi.org/10.1016/j.aam.2023.102615
-    arxiv: https://arxiv.org/abs/2212.11689
-    bibtex: https://mathscinet.ams.org/mrlookup?au=richman&ti=floor%20quotient%20partial%20order&year=2024
-    code: https://github.com/harryrichman/floor-quotients-app
-    demo: https://harryrichman.github.io/floor-quotients-app/
-  #  image: ./assets/img/floor_quotient_thumb.png
-
   # - title: Lower rational approximations and Farey staircases
   #   authors: Harry Richman
   #   journal_short: Integers
