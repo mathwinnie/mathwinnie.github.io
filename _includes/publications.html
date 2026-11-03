@@ -62,8 +62,10 @@
               style="font-size:12px;">Demo</a>
             {% endif %}
             {% if pub.notes %}
-            <strong> <i style="color:#e74d3c">{{ pub.notes }}</i></strong>
-            {% endif %}
+              <div class="note">
+                  <strong><i style="color:#e74d3c">{{ pub.notes }}</i></strong>
+              </div>
+              {% endif %}
             {% if pub.others %}
             {{ pub.others }}
             {% endif %}
