@@ -1,9 +1,11 @@
 main:
 
-  - title: Descartes' rule of signs for finite fields
-    authors: Gary Fishman
-    notes: in preparation
-    image: ./assets/img/teaser_example.png
+  - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
+    authors: C. Li, W. Liao, J. Huang, **Min-Jie Luo**
+    journal_short: Mathematics
+    year: 2026
+    link: https://doi.org/10.3390/math14193610
+
 
   - title: Vector encoding of phylogenetic trees by ordered leaf attachment
     authors: Harry Richman, Cheng Zhang, Erick Matsen
