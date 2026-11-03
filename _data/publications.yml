@@ -1,18 +1,18 @@
 main:
 
-  - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
-    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
-    journal_short: Mathematics
-    journal: Mathematics
-    year: 2026
-    link: https://doi.org/10.3390/math14193610
+#  - title: On a nonlinear fractional delay differential equation with nonlocal boundary conditions
+#    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
+#    journal_short: Mathematics
+#    journal: Mathematics
+#    year: 2026
+#    link: https://doi.org/10.3390/math14193610
 
-  - title: Babenko's method for $q$-fractional integral equations: a systematic framework
-    authors: Min-Jie Luo, X.-L. Zhou
-    journal_short: Math. Methods Appl. Sci.
-    journal: Math. Methods Appl. Sci.
-    year: 2026
-    link: https://doi.org/10.1002/mma.70845
+#  - title: Babenko's method for $q$-fractional integral equations: a systematic framework
+#    authors: Min-Jie Luo, X.-L. Zhou
+#    journal_short: Math. Methods Appl. Sci.
+#    journal: Math. Methods Appl. Sci.
+#    year: 2026
+#    link: https://doi.org/10.1002/mma.70845
 
   - title: Vector encoding of phylogenetic trees by ordered leaf attachment
     authors: Harry Richman, Cheng Zhang, Erick Matsen
