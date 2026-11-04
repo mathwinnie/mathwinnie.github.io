@@ -20,24 +20,11 @@ For more information about my academic work, please visit my [Google Scholar](ht
 - Integral Transforms, Operational Calculus (MSC 2020: 44)
 - Functional Differential equations (MSC 2020: 34Kxx)
 
-## Publications
-
-{% include_relative _includes/publications.html %}
-
-## Notes and Presentations
-
-{% include_relative _includes/notes.html %}
-
-## Talks
-
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
-
 ## Teaching
 
-I primarily teach undergraduate and graduate courses in *Analysis* at Donghua University.
+I primarily teach undergraduate and graduate courses in *Analysis* at Donghua University. I am also responsible for training students for the *Chinese Mathematics Competitions for College Students* (CMC).
+
+Beyond supervising graduate students, I also enjoy mentoring undergraduate students interested in mathematical research and guiding them in writing short mathematical essays.
 
 #### Undergraduate Courses
 
@@ -63,8 +50,9 @@ I primarily teach undergraduate and graduate courses in *Analysis* at Donghua Un
 
 #### CMC
 
-- I am responsible for training students for the Chinese Mathematics Competitions for College Students (CMC).<br>
+- I am responsible for training students for CMC.<br>
   Teaching Period: Summer 2023, Fall 2024, Summer 2025, Fall 2025, Summer 2026, Fall 2026.
+- My team and I organize two college-level math competitions each year.
 
 ## Service
 
@@ -76,6 +64,23 @@ I primarily teach undergraduate and graduate courses in *Analysis* at Donghua Un
 
 - [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1049816)
 - [zbMATH](https://zbmath.org/authors/?ml=3&ml-1-f=any&ml-1-v=min-jie+luo&ml-1-op=and&ml-2-f=ln&ml-2-v=&ml-2-op=and&ml-3-f=fn&ml-3-v=)
+
+## Publications
+
+{% include_relative _includes/publications.html %}
+
+## Notes and Presentations
+
+{% include_relative _includes/notes.html %}
+
+## Talks
+
+- **[Feb. 2020]** Seminar talk at NTU graduate student event
+- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
+- **[Sept. 2019]** Started Ph.D. program at NTU
+- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
+
+
 
 <!-- 
 **Other template features:**
