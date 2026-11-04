@@ -181,6 +181,18 @@ main:
     year: 2016
     link: https://doi.org/10.1515/fascmath-2016-0001
 
+  - title: "On a multivariable class of Mittag-Leffler type functions"
+    authors: R.K. Parmar, Min-Jie Luo, R.K. Raina
+    journal: J. Appl. Anal. Comput.
+    year: 2016
+    link: https://doi.org/10.11948/2016064
+
+  - title: "A new extension of Carlson's inequality"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Math. Inequal. Appl.
+    year: 2016
+    link: https://doi.org/10.7153/mia-19-33
+  
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
   #  journal_short: Integers
