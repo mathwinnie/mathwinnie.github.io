@@ -4,21 +4,24 @@ layout: homepage
 
 ## About Me
 
-My name is Min-Jie Luo (罗旻杰). My research interests include Special Functions and Fractional Calculus.
+My name is Min-Jie Luo (罗旻杰). My main research interests are *Special Functions* and *Fractional Calculus*.
 
 I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017. From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong. Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
 
-My recent research mainly focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions 
+My *recent research* focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions 
 $F_K$ and multivariate Laguerre polynomials; and the explicit characterization of generalized fractional integral operators whose kernels involve special functions such as the $G$-function, $H$-function, and $I$-function.
 
-For more information about my academic work, please visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf).
+For more information about my work, please visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf).
 
 ## Research Interests
 
-- Special Functions (MSC 2020: 33)
-- Fractional Calculus (MSC 2020: 26A33)
-- Integral Transforms, Operational Calculus (MSC 2020: 44)
-- Functional Differential equations (MSC 2020: 34Kxx)
+According to the *[2020 Mathematics Subject Classification](https://zbmath.org/classification/)* (MSC2020), my research interests cover the following areas:
+
+- Special Functions (MSC2020: 33)
+- Fractional Calculus (MSC2020: 26A33)
+- Approximations and expansions (MSC2020: 41)
+- Integral Transforms, Operational Calculus (MSC2020: 44)
+- Functional Differential equations (MSC2020: 34Kxx)
 
 ## Teaching
 
@@ -53,6 +56,11 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 - I am responsible for training students for CMC.<br>
   Teaching Period: Summer 2023, Fall 2024, Summer 2025, Fall 2025, Summer 2026, Fall 2026.
 - My team and I organize two college-level math competitions each year.
+
+#### Learning Resources
+
+- [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+- [Bibliography of Elliptic Hypergeometric Functions](https://www.math.chalmers.se/~hjalmar/bibliography.html)
 
 ## Service
 
