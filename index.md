@@ -77,17 +77,20 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 {% include_relative _includes/publications.html %}
 
-## Notes and Presentations
+## Talks
 
 {% include_relative _includes/notes.html %}
 
-## Talks
+
+
+<!--
+## News
 
 - **[Feb. 2020]** Seminar talk at NTU graduate student event
 - **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
 - **[Sept. 2019]** Started Ph.D. program at NTU
 - **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
-
+-->
 
 
 <!-- 
