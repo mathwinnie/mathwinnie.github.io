@@ -1,11 +1,16 @@
 main:
 
-  - title: "Multivariate Laguerre polynomials: new results and insights"
-    authors: L.-J. Guo, Min-Jie Luo, R.K. Raina, J.-J. Wang
+  - title: "On a new class of $q$-fractional integral operators involving multivariate $q$-Mittag-Leffler functions"
+    authors: Min-Jie Luo, Q.-H. Peng, R.K. Raina
     journal: arXiv
     year: 2026
-    link: https://arxiv.org/abs/2604.18629
-   # notes: 'This paper was selected for the cover of <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
+    link: https://arxiv.org/abs/2610.10574
+
+  - title: "Product formulas for multivariate and matrix-variate confluent hypergeometric functions"
+    authors: Min-Jie Luo, S.-Y. Shen
+    journal: arXiv
+    year: 2026
+    link: https://arxiv.org/abs/2608.19270
 
   - title: 'Asymptotic expansions of the Humbert function $\Phi_1$ and their applications'
     authors: P.-C. Hang, L. Hu, Min-Jie Luo
@@ -13,8 +18,9 @@ main:
     year: 2026
     link: https://arxiv.org/abs/2504.09280v3
 
-  - title: "Quantum derivatives of matrix-valued functions with an application to $q$-kummer matrix function"
-    authors: R. Dwivedi, R. Sanjhira, P.-C. Hang, Min-Jie Luo
-    journal: Ann. Univ. Ferrara, Sez. VII, Sci. Mat.
+  - title: "Multivariate Laguerre polynomials: new results and insights"
+    authors: L.-J. Guo, Min-Jie Luo, R.K. Raina, J.-J. Wang
+    journal: arXiv
     year: 2026
-    link: https://doi.org/10.1007/s11565-026-00773-7
+    link: https://arxiv.org/abs/2604.18629
+   # notes: 'This paper was selected for the cover of <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
