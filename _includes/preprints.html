@@ -25,9 +25,9 @@
         <div class="{% if site.enable_publication_thumbnails and pub.image %}col-sm-9{% else %}col-sm-12{% endif %}"
      style="position: relative;padding-right: 15px;padding-left: 15px;">
           {% if pub.link %}
-          <div class="title"><a href="{{ pub.link }}"><strong>{{ pub.title }}<strong></a></div>
+          <div class="title"><a href="{{ pub.link }}"><strong>{{ pub.title }}</strong></a></div>
           {% else %}
-          <div class="title">{{ pub.title }}</div>
+          <div class="title"><strong>{{ pub.title }}</strong></div>
           {% endif %}
           <div class="author">{{ pub.authors }}</div>
           <div class="periodical">
