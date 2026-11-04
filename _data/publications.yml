@@ -61,7 +61,11 @@ main:
     year: 2025
     link: https://doi.org/10.1016/j.jat.2025.106233
 
-
+  - title: 'On the generalized fractional convection-diffusion equation with initial condition in $\mathbb{R}^n$'
+    authors: C. Li, R. Saadati, S.R. Aderyani, Min-Jie Luo
+    journal: Fractal Frac.
+    year: 2025
+    link: https://doi.org/10.3390/fractalfract9060347
 
     
   #- title: Lower rational approximations and Farey staircases
