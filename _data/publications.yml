@@ -6,6 +6,12 @@ main:
     year: 2026
     link: https://doi.org/10.3390/math14193610
     notes: 'This paper was selected for the cover of <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
+
+  - title: "Quantum derivatives of matrix-valued functions with an application to $q$-kummer matrix function"
+    authors: R. Dwivedi, R. Sanjhira, P.-C. Hang, Min-Jie Luo
+    journal: Ann. Univ. Ferrara, Sez. VII, Sci. Mat.
+    year: 2026
+    link: https://doi.org/10.1007/s11565-026-00773-7
     
   - title: "Babenko's method for $q$-fractional integral equations: a systematic framework"
     authors: Min-Jie Luo, X.-L. Zhou
@@ -210,6 +216,49 @@ main:
     journal: Honam Mathematical J.
     year: 2015
     link: https://doi.org/10.5831/HMJ.2015.37.4.397
+
+  - title: "Some new results related to a class of generalized Hurwitz zeta function"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: J. Classical Anal.
+    year: 2015
+    link: https://doi.org/10.5831/HMJ.2015.37.4.397
+
+  - title: "Some new results related to a class of generalized Hurwitz zeta function"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: J. Classical Anal.
+    year: 2015
+    link: https://doi.org/10.7153/jca-06-08
+
+  - title: "Some results on the extended beta and extended hypergeometric functions"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Appl. Math. Comput.
+    year: 2014
+    link: https://doi.org/10.1016/j.amc.2014.09.110
+
+  - title: "On certain classes of fractional kinetic equations"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Filomat
+    year: 2014
+    link: https://doi.org/10.2298/FIL1410077L
+
+  - title: "A note on the generalized Euler transformation"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Math. Sci. Res. J.
+    year: 2013
+  #  link: https://doi.org/10.2298/FIL1410077L
+
+  - title: "New results involving a class of generalized Hurwitz-Lerch zeta functions and their applications"
+    authors: H.M. Srivastava, Min-Jie Luo, R.K. Raina
+    journal: Turkish J. Anal. Number Theory
+    year: 2013
+    link: https://doi.org/10.12691/tjant-1-1-7
+
+  - title: "Extended generalized hypergeometric functions and their applications"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Bull. Math. Anal. Appl.
+    year: 2013
+    link: https://www.emis.de/journals/BMAA/repository/docs/BMAA5_4_7.pdf
+
     
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
