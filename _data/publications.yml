@@ -192,7 +192,25 @@ main:
     journal: Math. Inequal. Appl.
     year: 2016
     link: https://doi.org/10.7153/mia-19-33
-  
+
+  - title: "$q$-analogues of Sofo's series involving reciprocals of binomial coefficients"
+    authors: Min-Jie Luo, S.D. Purohit, R.K. Raina
+    journal: An. Univ. Oradea, fasc. Mat.
+    year: 2016
+  #  link: https://doi.org/10.7153/mia-19-33
+
+  - title: "A new integral transform and its applications"
+    authors: H.M. Srivastava, Min-Jie Luo, R.K. Raina
+    journal: Acta Math. Sci., Ser. B, Engl. Ed.
+    year: 2016
+    link: https://doi.org/10.1016/S0252-9602(15)30061-8
+
+  - title: "A note on a class of convolution integral equations"
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Honam Mathematical J.
+    year: 2015
+    link: https://doi.org/10.5831/HMJ.2015.37.4.397
+    
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
   #  journal_short: Integers
