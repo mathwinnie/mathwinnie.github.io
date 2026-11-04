@@ -1,8 +1,14 @@
 main:
 
-  - title: "On a nonlinear fractional delay differential equation with nonlocal boundary conditions"
-    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
-    journal: Mathematics
+  - title: "Multivariate Laguerre polynomials: new results and insights"
+    authors: L.-J. Guo, Min-Jie Luo, R.K. Raina, J.-J. Wang
+    journal: arXiv
     year: 2026
-    link: https://doi.org/10.3390/math14193610
-    notes: 'This paper was selected for the cover of <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
+    link: https://arxiv.org/abs/2604.18629
+   # notes: 'This paper was selected for the cover of <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
+
+  - title: 'Asymptotic expansions of the Humbert function $\Phi_1$ and their applications'
+    authors: P.-C. Hang, L. Hu, Min-Jie Luo
+    journal: arXiv
+    year: 2026
+    link: https://arxiv.org/abs/2504.09280v3
