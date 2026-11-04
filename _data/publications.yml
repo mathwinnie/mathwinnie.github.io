@@ -67,6 +67,35 @@ main:
     year: 2025
     link: https://doi.org/10.3390/fractalfract9060347
 
+  - title: Asymptotics of Saran's hypergeometric function $F_K$
+    authors: P.-C. Hang, Min-Jie Luo
+    journal: J. Math. Anal. Appl.
+    year: 2025
+    link: https://doi.org/10.1016/j.jmaa.2024.128707
+
+  - title: 'Asymptotics of the Humbert function $\Psi_1$ for two large arguments'
+    authors: P.-C. Hang, Min-Jie Luo
+    journal: SIGMA
+    year: 2024
+    link: https://doi.org/10.3842/SIGMA.2024.074
+
+  - title: On the composition structures of certain fractional integral operators
+    authors: Min-Jie Luo, R.K. Raina
+    journal: Symmetry
+    year: 2022
+    link: https://doi.org/10.3390/sym14091845
+
+  - title: On certain integrals related to Saran's hypergeometric function $F_K$
+    authors: Min-Jie Luo, M.-H. Xu, R.K. Raina
+    journal: Fractal Fract.
+    year: 2022
+    link: https://doi.org/10.3390/fractalfract6030155
+
+  - title: Certain results on generating functions related to the associated Meixner-Pollaczek polynomials
+    authors: Min-Jie Luo, R.K. Raina, S.-H. Zhao
+    journal: Integral Transforms Spec. Funct.
+    year: 2022
+    link: https://doi.org/10.1080/10652469.2021.1958214
     
   #- title: Lower rational approximations and Farey staircases
   #  authors: Harry Richman
