@@ -60,7 +60,7 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Bibliography of Elliptic Hypergeometric Functions](https://www.math.chalmers.se/~hjalmar/bibliography.html)
-- My graduate student Peng-Cheng Hang's [personal homepage](https://sites.google.com/view/p-hang/). Of particular interest is the information about the *Workshop on Cute Mathematics*, organized by him.
+- My graduate student Peng-Cheng Hang's [personal homepage](https://sites.google.com/view/p-hang/), which includes information about the *Workshop on Cute Mathematics* organized by him.
 
 ## Service
 
