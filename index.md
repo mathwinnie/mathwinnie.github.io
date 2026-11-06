@@ -6,7 +6,7 @@ layout: homepage
 
 My name is [Min-Jie Luo](https://maths.dhu.edu.cn/2018/1203/c23123a341156/page.htm) (罗旻杰). My main research interests are *Special Functions* and *Fractional Calculus*.
 
-I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017, under the supervision of Prof. [Zhi-Guo Liu](https://math.ecnu.edu.cn/facultydetail.html?uid=zgliu) (刘治国). From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong under the supervision of Prof. [Roderick S. C. Wong](https://www.cityu.edu.hk/rcms/bio.htm). Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
+I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017, under the supervision of Prof. [Zhi-Guo Liu](https://math.ecnu.edu.cn/facultydetail.html?uid=zgliu) (刘治国). From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong under the supervision of Prof. [Roderick S. C. Wong](https://www.cityu.edu.hk/rcms/bio.htm) (王世全). Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
 
 My *recent research* focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions $F_K$ and multivariate Laguerre polynomials; and the explicit characterization of generalized fractional integral operators whose kernels involve special functions such as the $G$-function, $H$-function, and $I$-function.
 
@@ -60,7 +60,7 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Bibliography of Elliptic Hypergeometric Functions](https://www.math.chalmers.se/~hjalmar/bibliography.html)
-- My graduate student Peng-Cheng Hang's [personal homepage](https://sites.google.com/view/p-hang/), which includes information about the *Workshop on Cute Mathematics* organized by him.
+- My graduate student Peng-Cheng Hang (杭鹏程)'s [personal homepage](https://sites.google.com/view/p-hang/), which includes information about the *Workshop on Cute Mathematics* organized by him.
 
 ## Service
 
