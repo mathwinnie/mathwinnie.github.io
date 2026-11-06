@@ -1,8 +1,7 @@
 main:
 
-  - title: "On a nonlinear fractional delay differential equation with nonlocal boundary conditions"
-    authors: C. Li, W. Liao, J. Huang, Min-Jie Luo
-    journal: Mathematics
-    year: 2026
+  - title: 'New results for Srivastava''s $\lambda$-generalized Hurwitz-Lerch Zeta function'
+    authors: Min-Jie Luo
+    journal: International Conference on Applied Mathematics 2016, 30 May -- 2 June, 2016, City University of Hong Kong
     link: https://doi.org/10.3390/math14193610
     notes: 'This paper was selected for the cover of <a href="https://www.mdpi.com/2227-7390/14/19" target="_blank">Mathematics, Volume 14, Issue 19</a>.'
