@@ -83,7 +83,7 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 ## Talks
 
-{% include_relative _includes/notes.html %}
+{% include_relative _includes/talks.html %}
 
 
 
