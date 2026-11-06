@@ -18,9 +18,9 @@ According to the *[2020 Mathematics Subject Classification](https://zbmath.org/c
 
 - Special Functions (MSC2020: 33)
 - Fractional Calculus (MSC2020: 26A33)
-- Approximations and expansions (MSC2020: 41)
+- Approximations and Expansions (MSC2020: 41)
 - Integral Transforms, Operational Calculus (MSC2020: 44)
-- Functional Differential equations (MSC2020: 34Kxx)
+- Functional Differential Equations (MSC2020: 34Kxx)
 
 ## Teaching
 
@@ -60,6 +60,7 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Bibliography of Elliptic Hypergeometric Functions](https://www.math.chalmers.se/~hjalmar/bibliography.html)
+- My graduate student Peng-Cheng Hang's [personal homepage](https://sites.google.com/view/p-hang/). Of particular interest is the information about the *Workshop on Cute Mathematics*, organized by him.
 
 ## Service
 
