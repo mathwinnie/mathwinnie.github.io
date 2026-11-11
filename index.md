@@ -22,7 +22,7 @@ According to the *[2020 Mathematics Subject Classification](https://zbmath.org/c
 - Integral Transforms, Operational Calculus (MSC2020: 44)
 - Functional Differential Equations (MSC2020: 34Kxx)
 
-In the age of AI, amid this new wave of technological change, I would like to revisit the words of Gian-Carlo Rota:
+In the age of AI, amid this new wave of technological change, I would like to revisit the words of [Gian-Carlo Rota](https://mathshistory.st-andrews.ac.uk/Biographies/Rota/):
 
 > When computers came along and everyone was talking about the end of mathematics, it was thought that special functions would be one of the first casualties. The opposite has happened: special functions are going great guns as never before, not even in Kummer's time. It is hard to tell who will win the fraternal joust between the abstract but penetrating concepts of the theory of group representations and the concrete but permanent formulas of the theory of special functions. We place out bets on the latter.
 > 
