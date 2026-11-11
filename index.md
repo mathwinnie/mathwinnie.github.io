@@ -26,7 +26,7 @@ In the age of AI, amid this new wave of technological change, I would like to re
 
 > When computers came along and everyone was talking about the end of mathematics, it was thought that special functions would be one of the first casualties. The opposite has happened: special functions are going great guns as never before, not even in Kummer's time. It is hard to tell who will win the fraternal joust between the abstract but penetrating concepts of the theory of group representations and the concrete but permanent formulas of the theory of special functions. We place out bets on the latter.
 > 
-> --  Gian-Carlo Rota, *Indiscrete Thoughts*
+> --  Gian-Carlo Rota, Indiscrete Thoughts
 
 I, too, place my bets on **Special Functions**, confident that they will remain vibrant and enduring in the age of AI.
 
