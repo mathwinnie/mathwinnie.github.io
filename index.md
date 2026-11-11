@@ -16,14 +16,20 @@ I welcome you to visit my [Google Scholar](https://scholar.google.com/citations?
 
 According to the *[2020 Mathematics Subject Classification](https://zbmath.org/classification/)* (MSC2020), my research interests cover the following areas:
 
-- Special Functions (MSC2020: 33)
+- **Special Functions** (MSC2020: 33)
 - Fractional Calculus (MSC2020: 26A33)
 - Approximations and Expansions (MSC2020: 41)
 - Integral Transforms, Operational Calculus (MSC2020: 44)
 - Functional Differential Equations (MSC2020: 34Kxx)
 
-> When computers came along and everyone was talking about the end of mathematics, it was thought that special functions would be one of the first casualties. The opposite has happened: special functions are going great guns as never before, not even in Kummer's time. It is hard to tell who will win the fraternal joust between the abstract but penetrating concepts of the theory of group representations and the concrete but permanent formulas of the theory of special functions. We place out bets on the latter. 
+In the age of AI, amid this new wave of technological change, I would like to revisit the words of Gian-Carlo Rota:
+
+> When computers came along and everyone was talking about the end of mathematics, it was thought that special functions would be one of the first casualties. The opposite has happened: special functions are going great guns as never before, not even in Kummer's time. It is hard to tell who will win the fraternal joust between the abstract but penetrating concepts of the theory of group representations and the concrete but permanent formulas of the theory of special functions. We place out bets on the latter.
+> 
 > --  Gian-Carlo Rota, *Indiscrete Thoughts*
+
+I, too, place my bets on **Special Functions**, confident that they will remain vibrant and enduring in the age of AI.
+
 
 ## Teaching
 
@@ -34,29 +40,29 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 #### Undergraduate Courses
 
 - Linear Algebra.<br>
-  Teaching Period: Spring 2019, Spring 2020, Spring 2026.
+  *Teaching Period*: Spring 2019, Spring 2020, Spring 2026.
 - Calculus of One Variable B.<br>
-  Teaching Period: Fall 2019.
+  *Teaching Period*: Fall 2019.
 - Mathematics I.<br>
-  Teaching Period: Fall 2020, Fall 2021, Fall 2022.
+  *Teaching Period*: Fall 2020, Fall 2021, Fall 2022.
 - Mathematics II.<br>
-  Teaching Period: Spring 2021, Spring 2022, Spring 2023.
+  *Teaching Period*: Spring 2021, Spring 2022, Spring 2023.
 - Mathematical Analysis I.<br>
-  Teaching Period: Fall 2023.
+  *Teaching Period*: Fall 2023.
 - Mathematical Analysis II.<br>
-  Teaching Period: Spring 2024.
+  *Teaching Period*: Spring 2024.
 - Mathematical Analysis III.<br>
-  Teaching Period: Fall 2024, Fall 2025, Fall 2026.
+  *Teaching Period*: Fall 2024, Fall 2025, Fall 2026.
 
 #### Graduate Course
 
 - Functional Differential Equations.<br>
-  Teaching Period: Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026.
+  *Teaching Period*: Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026.
 
 #### CMC
 
 - I am responsible for training students for CMC.<br>
-  Teaching Period: Summer 2023, Fall 2024, Summer 2025, Fall 2025, Summer 2026, Fall 2026.
+  *Teaching Period*: Summer 2023, Fall 2024, Summer 2025, Fall 2025, Summer 2026, Fall 2026.
 - My team and I organize two college-level math competitions each year.
 
 #### Learning Resources
