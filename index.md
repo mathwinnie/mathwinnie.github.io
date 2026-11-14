@@ -68,12 +68,14 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 #### Learning Resources
 
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+- [The Mathematical Functions Site](https://functions.wolfram.com/)
 - [Bibliography of Elliptic Hypergeometric Functions](https://www.math.chalmers.se/~hjalmar/bibliography.html)
 - Bateman project:<br>
   [Higher Transcendental Functions, Vols. 1,2,3](http://authors.library.caltech.edu/43491/)<br>
   [Tables of Integral Transforms, Vols. 1,2](http://authors.library.caltech.edu/43489/)<br>
 - My graduate student Peng-Cheng Hang (杭鹏程)'s [personal homepage](https://sites.google.com/view/p-hang/), which includes information about the *Workshop on Cute Mathematics* organized by him.
 - [Notes On Elliptic Function Theory](https://greggkelly.com/index.html)
+- Proofs of selected entries in the [Table of Integrals, Series, and Products](https://www.mathtable.com/gr/), by Moll *et al*. See V.H. Moll's [personal homepage](https://math.tulane.edu/~vhm/pap-scientia.html).
 
 ## Service
 
