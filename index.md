@@ -69,8 +69,9 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Bibliography of Elliptic Hypergeometric Functions](https://www.math.chalmers.se/~hjalmar/bibliography.html)
-- [Higher Transcendental Functions, Vols. 1,2,3](http://authors.library.caltech.edu/43491/)
-- [Tables of Integral Transforms, Vols. 1,2](http://authors.library.caltech.edu/43489/)
+- Bateman project:<br>
+  [Higher Transcendental Functions, Vols. 1,2,3](http://authors.library.caltech.edu/43491/)<br>
+  [Tables of Integral Transforms, Vols. 1,2](http://authors.library.caltech.edu/43489/)<br>
 - My graduate student Peng-Cheng Hang (杭鹏程)'s [personal homepage](https://sites.google.com/view/p-hang/), which includes information about the *Workshop on Cute Mathematics* organized by him.
 - [Notes On Elliptic Function Theory](https://greggkelly.com/index.html)
 
