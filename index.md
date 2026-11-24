@@ -30,6 +30,9 @@ In the age of AI, amid this new wave of technological change, I would like to re
 
 I, too, place my bets on **Special Functions**, confident that they will remain vibrant and enduring in the age of AI.
 
+## News
+
+- **[Nov. 27-28, 2026]** The *2nd Workshop on Number Theory and Special Functions* will be held online. Those interested in attending are welcome to contact me by email for the meeting link.
 
 ## Teaching
 
@@ -102,14 +105,7 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 
 
-<!--
-## News
 
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
--->
 
 
 <!-- 
