@@ -8,7 +8,7 @@ My name is [Min-Jie Luo](https://maths.dhu.edu.cn/2018/1203/c23123a341156/page.h
 
 My *recent research* focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions $F_K$ and multivariate Laguerre polynomials; and the explicit characterization of generalized fractional integral operators whose kernels involve special functions such as the $G$-function, $H$-function, and $I$-function.
 
-I welcome you to visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf). I am also an active user of [知乎](https://www.zhihu.com/people/luo-min-jie). Special thanks to my undergraduate student Wan-Lin Li (李婉菱) for drawing my homepage portrait.
+I welcome you to visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf). I am also an active user of [知乎](https://www.zhihu.com/people/luo-min-jie). Special thanks to my undergraduate student Wan-Ling Li (李婉菱) for drawing my homepage portrait.
 
 ## Research Interests
 
@@ -30,7 +30,7 @@ I, too, place my bets on **Special Functions**, confident that they will remain 
 
 ## News
 
-- **[Nov. 27-28, 2026]** The *2nd Workshop on Number Theory and Special Functions* will be held online. Those interested in attending are welcome to contact me by email for the meeting link.
+- **[Nov. 27-28, 2026]** The *2nd Workshop on Number Theory and Special Functions* will be held online.
 
 ## Teaching
 
