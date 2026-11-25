@@ -4,13 +4,11 @@ layout: homepage
 
 ## About Me
 
-My name is [Min-Jie Luo](https://maths.dhu.edu.cn/2018/1203/c23123a341156/page.htm) (罗旻杰). My main research interests are *Special Functions* and *Fractional Calculus*.
-
-I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017, under the supervision of Prof. [Zhi-Guo Liu](https://math.ecnu.edu.cn/facultydetail.html?uid=zgliu) (刘治国). From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong under the supervision of Prof. [Roderick S. C. Wong](https://www.cityu.edu.hk/rcms/bio.htm) (王世全). Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
+My name is [Min-Jie Luo](https://maths.dhu.edu.cn/2018/1203/c23123a341156/page.htm) (罗旻杰). My main research interests are *Special Functions* and *Fractional Calculus*. I received my Ph.D. in Pure Mathematics from the Department of Mathematics, East China Normal University, in 2017, under the supervision of Prof. [Zhi-Guo Liu](https://math.ecnu.edu.cn/facultydetail.html?uid=zgliu) (刘治国). From September 2017 to September 2018, I conducted postdoctoral research at City University of Hong Kong under the supervision of Prof. [Roderick S. C. Wong](https://www.cityu.edu.hk/rcms/bio.htm) (王世全). Since September 2018, I have been with the School of Mathematics and Statistics, Donghua University.
 
 My *recent research* focuses on two areas: the properties of higher-dimensional special functions, including multivariate hypergeometric functions $F_K$ and multivariate Laguerre polynomials; and the explicit characterization of generalized fractional integral operators whose kernels involve special functions such as the $G$-function, $H$-function, and $I$-function.
 
-I welcome you to visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf). I am also an active user of [知乎](https://www.zhihu.com/people/luo-min-jie).
+I welcome you to visit my [Google Scholar](https://scholar.google.com/citations?user=LjjBNLYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Min-Jie-Luo?ev=hdr_xprf). I am also an active user of [知乎](https://www.zhihu.com/people/luo-min-jie). Special thanks to my undergraduate student Wan-Lin Li (李婉菱) for drawing my homepage portrait.
 
 ## Research Interests
 
