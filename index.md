@@ -28,9 +28,12 @@ In the age of AI, amid this new wave of technological change, I would like to re
 
 I, too, place my bets on **Special Functions**, confident that they will remain vibrant and enduring in the age of AI.
 
+<!-- 
 ## News
 
 - **[Nov. 27-28, 2026]** The *2nd Workshop on Number Theory and Special Functions* will be held online.
+
+-->
 
 ## Teaching
 
