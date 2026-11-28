@@ -104,9 +104,9 @@ Beyond supervising graduate students, I also enjoy mentoring undergraduate stude
 
 {% include_relative _includes/talks.html %}
 
+## Curriculum Vitae
 
-
-
+For more detailed information about my academic background and activities, please refer to my complete [curriculum vitae](./assets/files/CV.pdf).
 
 
 <!-- 
